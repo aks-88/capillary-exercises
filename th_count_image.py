@@ -1,5 +1,4 @@
 import requests
-import asyncio
 from bs4 import BeautifulSoup
 from time import sleep
 import timeit
