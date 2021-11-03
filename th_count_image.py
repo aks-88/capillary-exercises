@@ -5,7 +5,7 @@ import timeit
 import threading
 from concurrent.futures import ThreadPoolExecutor
 
-base_urls = ["https://unsplash.com/s/photos/blog","https://www.hotstar.com/in", "https://unsplash.com/s/photos/blog", "https://unsplash.com/s/photos/blog", "https://unsplash.com/s/photos/blog", "https://unsplash.com/s/photos/blog", "https://unsplash.com/s/photos/blog", "https://unsplash.com/s/photos/blog", "https://unsplash.com/s/photos/blog", "https://unsplash.com/s/photos/blog","https://unsplash.com/s/photos/blog", "https://unsplash.com/s/photos/blog","https://unsplash.com/s/photos/blog","https://unsplash.com/s/photos/blog"]
+base_urls = ["https://unsplash.com/s/photos/blog","https://unsplash.com/s/photos/blog", "https://unsplash.com/s/photos/blog", "https://unsplash.com/s/photos/blog", "https://unsplash.com/s/photos/blog", "https://unsplash.com/s/photos/blog", "https://unsplash.com/s/photos/blog", "https://unsplash.com/s/photos/blog", "https://unsplash.com/s/photos/blog", "https://unsplash.com/s/photos/blog","https://unsplash.com/s/photos/blog", "https://unsplash.com/s/photos/blog","https://unsplash.com/s/photos/blog","https://unsplash.com/s/photos/blog"]
 
 print ("Running code")
 
